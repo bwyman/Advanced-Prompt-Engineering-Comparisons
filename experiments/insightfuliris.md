@@ -13,6 +13,7 @@ The different CustomGPTs can be found at the following URLs. (I've been calling 
 	- **Alt Texter:** _[Alt Texter CustomGPT](https://chat.openai.com/g/g-3eqVFXPST-alt-texter-part-of-insightful-iris-v1)_
 	- **Descriptive Art Narrator:** _[Descriptive Art Narrator CustomGPT](https://chat.openai.com/g/g-aFfyCbbNc-descriptive-art-narrator)_
 - **Insightful Iris v3:** _coming_
+- **Insightful Iris v3:** _coming_
 
 I also have a handful of reference files to build the Knowledge of each CustomGPT. 
 
