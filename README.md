@@ -17,11 +17,11 @@ This repository establishes a set of guidelines for creating accessibile image d
 - **Background**
 	- [Accessibility Rules](accessibility/accessibility_rules.md)
 	- [Prompt Engineering Techniques and Comparisons](prompts/techniques.md)
-	- [Pulling all the top techniques together](prompts/combined.md)
 
 - **Experiments**
 	- [Insightful Iris Experiments](experiments/insightfuliris.md)
-	
+	- [Pulling all the top techniques together](prompts/combined.md)
+ 
 - **Useful Online Resources**
 	- [Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](https://arxiv.org/pdf/2312.16171v1.pdf?utm_source=www.theneurondaily.com&utm_medium=newsletter&utm_campaign=26-prompting-hacks)
 	- [The Power of Prompting](https://www.microsoft.com/en-us/research/blog/the-power-of-prompting/)
