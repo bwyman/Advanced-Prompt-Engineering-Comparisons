@@ -1,7 +1,7 @@
 # Advanced Prompt Engineering Comparisons
 A comparison of different advanced prompt engineering techniques as applied to image descriptions of artworks for the museum field.\
 _maintained by Bruce Wyman / bwyman@usd-mach.com_\
-_last updated: Jan 8, 2024_
+_last updated: Jan 9, 2024_
 
 This repository establishes a set of guidelines for creating accessibile image descriptions for artworks, a detailed comparison of different Prompt Engineering Techniques, and early experiments at implementation. 
 
