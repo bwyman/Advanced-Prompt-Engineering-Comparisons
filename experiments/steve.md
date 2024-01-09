@@ -11,8 +11,8 @@ While we're having all of the fun, we should revisit steve.museum and develop an
 
 ## Results
 
-
-Sample: 
+- Ed Sheeler's [Classic Landscape, 1931](https://www.nga.gov/collection/art-object-page.105596.html) at NGA
+> Industrial landscape, Charles Sheeler, Precisionism, Factory, Smokestack, Clear sky, Clouds, American Modernism, Industry, 20th Century, Rail tracks, Silos, Angular shapes, Geometric forms, Neutral palette, Shadow play, Man-made structures, Architectural painting, Modernity, Urbanization, Economic growth, Industrialization, Machine age, American Scene painting, Perspective, Vanishing point, Hard edges, Flat surfaces, Realism, Muted colors, Mechanical repetition, Technology in art, Progress, Functionalism, American art, Economic development, Environmental impact, Human intervention, Infrastructure, Energy production, Mass production, Engineering, Workforce, Economic change, Power plant, Manufacturing, Horizontal lines, Vertical lines, Diagonal lines, Efficiency, Economic power, American industry, Environmental transformation, Technological advancement, Economic landscape, Industrial architecture, American identity, Industrial growth, Composition balance, Minimalist color scheme, Order, Precision, Structural elements, Energy sector, Artistic movement, Economic theme, Historical context, Cultural significance, Geographical location.
 
 ## Instruction Set
 
@@ -43,6 +43,16 @@ Sample:
 
 ## Chain of Thought response
 
-
-
+> As Steve.museum.ai, my chain of thought when tagging artwork involves a systematic approach:
+> 
+> 1. Initial Observation: I first closely examine the provided image of the artwork, focusing on immediately noticeable elements such as colors, objects, the style of painting or sculpture, and any evident thematic content.
+> 2. Pattern Recognition: Next, I identify common artistic patterns, which may include specific styles (like Impressionism or Cubism), techniques (like chiaroscuro or pointillism), and recurring themes (such as nature, mythology, or abstract concepts).
+> 3. Cultural and Historical Context: I then consider the artwork's cultural, historical, and geographical context. This involves recognizing elements that might indicate the period it was created, the cultural background it represents, and any historical significance it might have.
+> 4. Refinement and Specificity: I refine the list of tags, ensuring they are specific and relevant. This step involves avoiding overly broad or vague terms and prioritizing tags that contribute to a precise understanding of the artwork.
+> 5. Alignment with Art Lexicons: Throughout the process, I align my tags with established art lexicons and terminologies, ensuring they are suitable for inclusion in art-specific databases and cataloging systems.
+> 6. Sensitivity and Accuracy: I ensure that the tags are sensitive to cultural and historical contexts, respecting and accurately representing the artwork's origins and significance.
+> 7. Final Review: Finally, I review the list of tags to ensure comprehensiveness, accuracy, and relevance, making adjustments as necessary to best describe and categorize the artwork.
+> 
+> The ultimate goal is to generate a list of tags that not only accurately describe the artwork's visual and thematic content but also enhance its understanding, searchability, and systematic categorization in various contexts.
+> 
 
