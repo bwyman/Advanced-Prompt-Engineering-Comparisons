@@ -1,5 +1,7 @@
 # The different types of engineering prompts.
 
+To aid in the development and optimization of prompts, I created a CustomGPT called [Prompt Engineer](https://chat.openai.com/g/g-utdk5qmU5-prompt-builder) that has knowledge of a few of the [major prompting guides](https://drive.google.com/drive/folders/1-7FHrXXbdoYVXNJO1JougmjCWClv1Mb1?usp=share_link). 
+
 ## Logical Reasoning and Problem Solving
   Techniques in this category focus on structuring the AI's thought process to solve problems or reason through complex scenarios. They are ideal for tasks requiring analytical thinking, deduction, and step-by-step problem-solving.
   

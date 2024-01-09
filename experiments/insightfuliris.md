@@ -1,6 +1,4 @@
 # Insightful Iris Experiments
-maintained by Bruce Wyman / bwyman@usd-mach.com
-last updated: Jan 8, 2024
 
 ## Using openAI's CustomGPTs
 
@@ -34,9 +32,15 @@ In the initial setup of the AI, I'd suggest doing an initial run of ~50 objects,
 ## Additional Notes
 In the instruction sets, I've had better success with always having a defined persona / purpose for the GPT, offering clear instructions around the output, and providing both good and bad examples of output. I've been following some of the prompt research as of late, and I've happily paralleled a bunch of things that seem to lead to better success (although I've been doing multi-shot prompts and some other more advanced approaches, I'm not yet doing a medprompt style work, when I shift to the APIs, I think I can do that since there'll be more persistence to the AIs).
 
-## Takeaways:
+## Observations:
 
 - There's an 8000 character limit to Instruction Sets, when adding lengthy rulesets / guidelines, that quickly can become an issue.
-- GPTs don't really understand word count, despite multiple variations of admonishments. This was true for single numbers, ranges, and converting words to token counts. 
 - I'm conflicted over the level of detail to provide in the accessibility guidelines. I've done both substantially shorter and longer ones. Longer ones don't appear to be better, but the shorter ones *do* seem to lose some detail. 
 - If you're running in interactive mode (i.e. chatting, providing a single image at a time), the GPT can get lazy and start to provide shorter responses. Poking the GPT politely and asking it to double the length or asking how long something is supposed to be would correct it for some number of additional iterations.
+- The CustomGPTs seem to get tired from time to time and start to trend to shorter outputs
+- A handful of sessions have seen one of the GPTs periodically balk at some of the images — it indicates that it can't help with the image, although in every instance, I could just ask it to try again, and it gave the appropriate output
+- The notion of word count is vague. For example, if I want descriptions that are around 175 words long, they'll range from 100 - 200 words, usually at the shorter end. However, if I ask to make it 30% longer, it does without any problem and will maintain the new approach for a while (until it starts to 'get tired’) 
+- Different times of day seem to yield different results, and I suspect that has to do with the overall volume of use of OpenAI's system. 
+- The GPTs do sometimes 'forget' parts of the instructions although when reminded or asked about it, they quickly correct. 
+- There are a handful of errors in the descriptions, and I genuinely don't know where it gets the dimensions in some instances ... although when I confirm, it's usually pretty close. I've *only* been supplying images so maybe CMA's collection is part of the training; I have no idea nor any good way to validate if so. 
+
