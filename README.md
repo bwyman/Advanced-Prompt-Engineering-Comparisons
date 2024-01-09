@@ -5,7 +5,14 @@ _last updated: Jan 8, 2024_
 
 This repository establishes a set of guidelines for creating accessibile image descriptions for artworks, a detailed comparison of different Prompt Engineering Techniques, and early experiments at implementation. 
 
-Menu: 
+**Pending Tasks:**
+
+- [ ] Add Intro to main README.md
+- [ ] Add narrative to each [Iris experiment](experiments/insightfuliris.md)
+- [ ] Create generic examples for each of the [prompt techniques](prompts/techniques.md)
+- [ ] Create Iris Instruction set & sample responses for each prompt technique
+
+## Menu:
 
 - **Background**
 	- [Accessibility Rules](accessibility/accessibility_rules.md)
