@@ -9,14 +9,15 @@ This repository establishes a set of guidelines for creating accessibile image d
 
 - [ ] Add Intro to main README.md
 - [ ] Add narrative to each [Iris experiment](experiments/insightfuliris.md)
-- [ ] Create generic examples for each of the [prompt techniques](prompts/techniques.md)
-- [ ] Create Iris Instruction set & sample responses for each prompt technique
+- [x] Create generic examples for each of the [prompt techniques](prompts/techniques.md)
+- [ ] Create Amalgamated Insightful Iris
 
 ## Menu:
 
 - **Background**
 	- [Accessibility Rules](accessibility/accessibility_rules.md)
-	- [Prompt Engineering Techniques](prompts/techniques.md)
+	- [Prompt Engineering Techniques and Comparisons](prompts/techniques.md)
+	- [Pulling all the top techniques together](prompts/combined.md)
 
 - **Experiments**
 	- [Insightful Iris Experiments](experiments/insightfuliris.md)
