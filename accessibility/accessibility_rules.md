@@ -16,6 +16,7 @@ There is a plethora of information around best practices in describing images. I
 - [How to Write Alt Text and Image Descriptions for the visually impaired](https://www.perkins.org/resource/how-write-alt-text-and-image-descriptions-visually-impaired/)
 - [How to write an image description](https://uxdesign.cc/how-to-write-an-image-description-2f30d3bf5546)
 - [Writing Image Descriptions](https://www.accessible-social.com/images-and-visuals/writing-image-descriptions)
+- [NGA Image Description Guidelines](https://www.nga.gov/visit/accessibility/collection-image-descriptions.html)
 
 And, in turn fed these into a CustomGPT that was configured as an accessibility expert to extract the following, which, based on personal experience, seem to cover a pretty broad spectrum of things I've experienced in parts and pieces. These have broken into three tiers of priority, to give some sense of overall order and important. 
 
